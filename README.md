@@ -10,6 +10,6 @@
 ## 4. Testing
 * Put the hazy image in the "input" folder
 * Run "test_real.py". 
-* The enhancement result will be saved in the "output" folder.
+* The enhancement result will be saved in the "result" folder.
 
 #### If you have any questions, please get in touch with me (yuguo@whut.edu.cn).
