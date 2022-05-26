@@ -1,4 +1,4 @@
-# Deep Network-Enabled Haze Visibility Enhancement for Visual IoT-Driven Intelligent Transportation Systems
+# Deep Network-Enabled Haze Visibility Enhancement for Visual IoT-Driven Intelligent Transportation Systems [IEEE Transactions on Industrial Informatics]
 
 
 **[paper]**
