@@ -1,7 +1,8 @@
 # Deep Network-Enabled Haze Visibility Enhancement for Visual IoT-Driven Intelligent Transportation Systems [IEEE Transactions on Industrial Informatics]
 
 
-**[paper]**
+**[paper]**[Deep_Network-Enabled_Haze_Visibility_Enhancement_for_Visual_IoT-Driven_Intelligent_Transportation_Systems.pdf](https://github.com/gy65896/TSDNet/files/8779116/Deep_Network-Enabled_Haze_Visibility_Enhancement_for_Visual_IoT-Driven_Intelligent_Transportation_Systems.pdf)
+
 
 ## 1. Requirement ##
 * __Python__ == 3.7
