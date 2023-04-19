@@ -17,9 +17,9 @@ The Internet of Things (IoT) has recently emerged as a revolutionary communicati
 ![Figure02_Flowchart](https://user-images.githubusercontent.com/48637474/233028445-4e0a0e3e-7e32-4833-943f-80f144a6d28f.jpg)
 
 ## Test
-* Put the hazy image in the "input" folder
-* Run "test_real.py". 
-* The enhancement result will be saved in the "result" folder.
+* Put the hazy image in the `input` folder
+* Run `test_real.py`. 
+* The enhancement result will be saved in the `result` folder.
 
 ## Citation
 
