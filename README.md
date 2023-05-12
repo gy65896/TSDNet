@@ -1,7 +1,7 @@
 # [IEEE TII 2022] Deep Network-Enabled Haze Visibility Enhancement for Visual IoT-Driven Intelligent Transportation Systems
 
 ---
->**Deep Network-Enabled Haze Visibility Enhancement for Visual IoT-Driven Intelligent Transportation Systems [[paper](https://github.com/gy65896/TSDNet/files/8779116/Deep_Network-Enabled_Haze_Visibility_Enhancement_for_Visual_IoT-Driven_Intelligent_Transportation_Systems.pdf)]**<br>  [Ryan Wen Liu<sup>*</sup>](http://mipc.whut.edu.cn/index.html), Yu Guo, Yuxu Lu, Kwok Tai Chui, Brij B Gupta (* indicates corresponding author) <br> 
+>**Deep Network-Enabled Haze Visibility Enhancement for Visual IoT-Driven Intelligent Transportation Systems [[paper](https://github.com/gy65896/TSDNet/files/8779116/Deep_Network-Enabled_Haze_Visibility_Enhancement_for_Visual_IoT-Driven_Intelligent_Transportation_Systems.pdf)]**<br>  [Ryan Wen Liu<sup>*</sup>](http://mipc.whut.edu.cn/index.html), [Yu Guo](https://gy65896.github.io/), Yuxu Lu, Kwok Tai Chui, Brij B Gupta (* indicates corresponding author) <br> 
 >IEEE Transactions on Industrial Informatics
 
 
